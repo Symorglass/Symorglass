@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey there! I'm Sywen.
+### 👋 Hey there! 
 
----
+I'm Sywen.
 
 🔭 I’m currently working at the intersection of distributed systems, and data-driven solutions.
 
@@ -24,16 +24,14 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on open source projects.
 
-🤔 I’m looking for helping with bringing technical solutions to real world problems.
+### Fun facts: 
 
-💬 Ask me about distributed system, cognitive computing, data streaming, AI solution.
+- I started in social impact consulting and counseling psychology before transitioning into engineering. I still love exploring how technology can create real-world impact in healthcare and social innovation.
 
-😄 Pronouns: She/Her  
+- It is amazing to turn ideas into codes to solve real-world problems, but I also enjoy making fun things!
 
-⚡ Fun fact: I started in social impact consulting and counseling psychology before transitioning into engineering. I still love exploring how technology can create real-world impact in healthcare and social innovation.  
+- In my free time, I like to brainstorm ideas and bring ideas to life through code.
 
 📫 How to reach me: sywen.chen@gmail.com  
-
----
 
 ✨ **Let’s build something impactful together!** 🚀  
