@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: She/Her  
 
-⚡ Fun fact: I started in social impact consulting and counseling psychology before transitioning into engineering. I still love exploring how technology can create real-world impact in healthcare, cognition, and **.  
+⚡ Fun fact: I started in social impact consulting and counseling psychology before transitioning into engineering. I still love exploring how technology can create real-world impact in healthcare and social innovation.  
 
 📫 How to reach me: sywen.chen@gmail.com  
 
