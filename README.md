@@ -32,6 +32,4 @@ I'm Sywen.
 
 - In my free time, I like to brainstorm ideas and bring ideas to life through code.
 
-📫 How to reach me: sywen.chen@gmail.com  
-
 ✨ **Let’s build something impactful together!** 🚀  
