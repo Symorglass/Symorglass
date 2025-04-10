@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I'm Sywen.
 
-🔭 I’m currently working at the intersection of distributed systems, and data-driven solutions.
+🔭 I’m currently working at the intersection of distributed systems, and data-driven solutions. 
 
-🌱 I’m currently learning knowledge in implementing consensus algorithms, optimizing microservices, and resilient system architectures.
+🌱 I’m currently learning knowledges in implementing consensus algorithms, optimizing microservices, and building resilient system architectures. I love to bring a scalability mindset to projects, big or small. 
 
 👯 I’m looking to collaborate on open source projects.
 
